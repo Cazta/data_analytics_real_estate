@@ -6,23 +6,24 @@ general hypothesis on data:
 - waterfront houses will have higher prices then without waterfront
 - better view means higher prices
 - better condition means higher prices
+- recently renovated will mean higher prices
 - there are seasonal changes is the pricing level
 
-hypothesis specific to stakeholder:
 
 assumptions to stakeholder: 
+
 - buying time need to be flexible throughout the year
 - required bedrooms: 3 - 6 
-- required space: follow who recommendation
+- required space: follow WHO recommendation
 - nice/social neighborhood: based on gentrification maps, find zip codes with nice neighborhoods
-- budget: lower ten percent of prices, find price limit
+- budget: lower 15 percent of prices, find price limit
+
 
 hypothesis:
 
-- there will be a very limited amount of available housing options
-- may be far out of central seattle / move to a 'bad' neighborhood despite anti-gentrification attempts
-- condition might be 2 or 3, grade lower middle class
-- might have to renovate
-- might suggest to buy more sqft but few bedrooms and construct separating walls
+- bad condition, low grade, either central 'bad' neigborhood or far outskirts
+- there are no affordable houses with sufficient bedroom numbers in nice neighborhoods
+- might suggest to buy more sqft but few bedrooms and construct separating walls (WHO recommendation)
+
 
 
