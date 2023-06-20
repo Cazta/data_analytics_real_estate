@@ -6,6 +6,8 @@ Project time: 7 days
 
 Carried out as part of the data analytics trainee Program at neuefische - school and pool for digital talent
 
+Repo contains:
+
 - Stakeholder and Data Description, Feature Engineering
 - 1. Data Cleaning, Preprocessing, Feature Engineering
 - 2. Data Analysis (Python)
@@ -14,11 +16,12 @@ Carried out as part of the data analytics trainee Program at neuefische - school
 
 ### Requirements
 
-pyenv
-python==3.9.8
-
+This repo contains a requirements.txt file with a list of all the packages and dependencies you will need. Environment running on Python 
 
 ### Environment
 
-This repo contains a requirements.txt file with a list of all the packages and dependencies you will need. Environment running on Python 
-
+    pyenv local 3.9.8
+    python -m venv .venv
+    source .venv/bin/activate
+    pip install --upgrade pip
+    pip install -r requirements.txt
